@@ -27,4 +27,5 @@ func main() {
 	var myRune rune
 	myRune = '🥸'
 	fmt.Println("Length :", myRune)
+	// 
 }
