@@ -24,7 +24,7 @@ func main() {
 	fmt.Println("length :", myByte)
 
 	// rune is alias for uint32 or int 32
-	var myRune rune
+	var myRune rune		
 	myRune = '🥸'
 	fmt.Println("Length :", myRune)
 	// 
